@@ -1,4 +1,4 @@
-Garment Inventory Management System.
+                                                          ***Garment Inventory Management System***
 A comprehensive, user-friendly application for managing garment inventory, built using NetBeans and Oracle Database. This project employs effective querying methods to ensure efficient, secure, and streamlined management of inventory, billing, dealers, and products.
 ________________________________________
 Table of Contents
