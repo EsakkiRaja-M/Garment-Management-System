@@ -65,6 +65,8 @@
     </ul>
   </li>
 </ul>
+<p>For a visual representation of the system and its modules, please refer to the <strong>"screenshots"</strong> folder in the repository, which contains images of each module and the corresponding UI.</p>
+
 
 <hr>
 
