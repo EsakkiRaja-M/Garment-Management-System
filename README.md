@@ -82,8 +82,8 @@
 <h3>Setup</h3>
 <ol>
   <li>Clone the repository:
-    <pre><code>git clone https://github.com/your-username/your-repository.git
-cd your-repository
+    <pre><code>git clone https://github.com/EsakkiRaja-M/Garment-Management-System.git
+cd Garment-Management-System
     </code></pre>
   </li>
   <li>Import the project into NetBeans and configure the Oracle Database settings in the application.</li>
